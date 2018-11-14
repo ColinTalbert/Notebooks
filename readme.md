@@ -1,6 +1,11 @@
 
-### This repository contains a collection of Jupyter notebooks, created for various projects and explorations. 
-#### They are intended for the purpose of demonostrating and sharing various data access, visualization, and other technologies.  
+## A random collection of Jupyter notebooks, created for various projects and explorations. 
+
+    These notebooks are for rememboring, demonostrating and sharing various data access, visualization, or other technologies. 
+    One step more discoverable than a gist, one step less permanent than a legitimate project repo.
+
+### Author
+Colin Talbert <talbertc@usgs.gov>
 
 <br>
 <br>
@@ -37,6 +42,3 @@ distribution constitute any such warranty, and no responsibility is assumed by t
 This software is provided "AS IS."
 
 
-## Author
-
-Colin Talbert <talbertc@usgs.gov>
